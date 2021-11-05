@@ -1,8 +1,12 @@
+html {
+    font-size: 2vw;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
 body {
     background-color: #cccccc;
 }
 table {
-    width: 30%;
+    width: 50vw;
 }
 table, td, th {
     border: 1px solid grey;
